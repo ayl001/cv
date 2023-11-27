@@ -9,11 +9,11 @@
  0623376817
 * Formation
 
- Master en Informatique et Télécommnication
+ _Master_ en Informatique et Télécommnication
 * Expérience professionnelle
 
  Enseignement en mathématiques
 * Hobbies
 
- Promotion et utilisation des logiciels libres
+ **Promotion et utilisation des logiciels libres**
 [C'est pas moi non plus](https://www.lalanguefrancaise.com/dictionnaire/definition/iota)
