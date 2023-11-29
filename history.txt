@@ -1,0 +1,4 @@
+ 2036  grep -i JavaScript < wilders.csv >javascript.csv
+ 2037  grep -i Toulouse <javascript.csv > ToulouseJavascript.csv
+ 2038  grep -i Biarritz <javascript.csv >BiarritzJavascript.csv
+ 2039  cat ToulouseJavascript.csv BiarritzJavascript.csv > javascript_biarritz_toulouse.csv
